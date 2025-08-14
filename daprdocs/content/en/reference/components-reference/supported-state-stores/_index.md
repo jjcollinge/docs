@@ -22,7 +22,7 @@ Table captions:
 
 The following stores are supported, at various levels, by the Dapr state management building block:
 
-> State stores can be used for actors if it supports both transactional operations and etag.
+> State stores can be used for actors if it supports, transactional operations, etag and has strong consistency.
 
 ### Generic
 
